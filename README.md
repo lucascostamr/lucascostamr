@@ -1,24 +1,63 @@
-# Lucas Da Costa Miranda
+<h1 align="center">Lucas Da Costa Miranda</h1>
 
-Backend & AI platform engineer from Brazil (UTC-3).
-Python, FastAPI, PostgreSQL, LLM agents and MCP.
-Open to remote roles and B2B contracts.
 
-## What I do
-- Backend services and data pipelines in Python (FastAPI, Airflow, Celery, PostgreSQL)
-- LLM-facing backends: MCP tool servers and agent orchestration
-- Docker, Azure, Terraform and CI/CD
+<p align="center">
+  <b>Backend &amp; AI Platform Engineer</b><br/>
+  Python · FastAPI · PostgreSQL · LLM agents · MCP
+</p>
 
-## Public work
-- [integrity-guard](https://github.com/lucascostamr/integrity-guard): Docker security assessment CLI
-- [clean-ts-api](https://github.com/lucascostamr/clean-ts-api): authentication API with Clean Architecture and TDD
-- [login-service](https://github.com/lucascostamr/login-service): login service with OAuth and JWT
 
-Most of my professional work is in private company codebases, so it isn't listed here.
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucascostamr"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-lucascostamr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img alt="Open to remote and B2B" src="https://img.shields.io/badge/Open%20to-Remote%20%2F%20B2B-2ea44f?style=for-the-badge"/>
+  <img alt="Based in Brazil, UTC-3" src="https://img.shields.io/badge/Brazil-UTC--3-1f6feb?style=for-the-badge"/>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/lucascostamr)
 
-Also open, not done:
-- clean-ts-api shows 55 security alerts, so a dependency update would help.
-- The GitHub status still says "Learning".
-- I haven't updated the Claude Doc to match what went live.
+---
+
+
+### What I do
+
+
+| Area | Focus |
+|---|---|
+| **Backend & data** | Python services and data pipelines with FastAPI, Airflow, Celery and PostgreSQL |
+| **AI platform** | LLM-facing backends: MCP tool servers and agent orchestration |
+| **Platform & delivery** | Docker, Azure, Terraform and CI/CD |
+
+
+### Stack
+
+
+<p>
+  <img alt="Tech stack" src="https://skillicons.dev/icons?i=py,fastapi,django,postgres,redis,docker,azure,terraform,ts,nodejs&theme=dark"/>
+</p>
+
+
+Also: Apache Airflow · Celery · REST APIs · test-driven development
+
+
+### Public work
+
+
+| Project | What it is | Stack |
+|---|---|---|
+| [integrity-guard](https://github.com/lucascostamr/integrity-guard) | Docker security assessment CLI with DREAD-based scoring and HTML/JSON reports | Python |
+| [clean-ts-api](https://github.com/lucascostamr/clean-ts-api) | Authentication API built with Clean Architecture and TDD, with CI | TypeScript, Node.js, MongoDB |
+| [login-service](https://github.com/lucascostamr/login-service) | Login service with pluggable auth strategies (OAuth, password) and JWT | Python, Docker |
+
+
+> Most of my professional work lives in private company codebases, so it is not listed here.
+
+
+### Work with me
+
+
+Available for remote roles and B2B contracts, with overlap for US East and European hours.
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucascostamr">Connect on LinkedIn</a>
+</p>
+
